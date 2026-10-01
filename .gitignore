@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+sbi-cubos-2026-09-08.db
+
+.idea
+
+AGENTS.md
+GEOCODIFICACION.md
+*.csv
+
